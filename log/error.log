@@ -12,3 +12,79 @@ Action:
 
 Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
 
+2022-07-22 21:09:30.844 ERROR o.s.b.diagnostics.LoggingFailureAnalysisReporter  :40   [32m                  [0;39m 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Failed to bind properties under 'server.port' to java.lang.Integer:
+
+    Property: server.port
+    Value: 8881;
+    Origin: class path resource [config/application.properties] - 1:13
+    Reason: failed to convert java.lang.String to java.lang.Integer
+
+Action:
+
+Update your application's configuration
+
+2022-07-22 21:09:52.863 ERROR o.s.b.diagnostics.LoggingFailureAnalysisReporter  :40   [32m                  [0;39m 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Failed to bind properties under 'server.port' to java.lang.Integer:
+
+    Property: server.port
+    Value: 8881;
+    Origin: class path resource [config/application.properties] - 1:13
+    Reason: failed to convert java.lang.String to java.lang.Integer
+
+Action:
+
+Update your application's configuration
+
+2022-07-22 21:10:43.242 ERROR o.s.b.diagnostics.LoggingFailureAnalysisReporter  :40   [32m                  [0;39m 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Failed to bind properties under 'server.port' to java.lang.Integer:
+
+    Property: server.port
+    Value: 8881;
+    Origin: class path resource [config/application.properties] - 1:13
+    Reason: failed to convert java.lang.String to java.lang.Integer
+
+Action:
+
+Update your application's configuration
+
+2022-07-22 21:11:08.740 ERROR o.s.b.diagnostics.LoggingFailureAnalysisReporter  :40   [32m                  [0;39m 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Failed to bind properties under 'server.port' to java.lang.Integer:
+
+    Property: server.port
+    Value: 8881;
+    Origin: class path resource [config/application.properties] - 1:13
+    Reason: failed to convert java.lang.String to java.lang.Integer
+
+Action:
+
+Update your application's configuration
+
